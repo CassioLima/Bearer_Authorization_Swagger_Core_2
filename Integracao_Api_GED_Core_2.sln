@@ -1,11 +1,23 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.28307.645
+VisualStudioVersion = 15.0.26403.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integracao_Api_GED_Core_2", "Integracao_Api_GED_Core_2\Integracao_Api_GED_Core_2.csproj", "{F24B9D13-3ED4-4F22-A8EB-7485C86167E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Integracao_Api_GED_Core_2", "Integracao_Api_GED_Core_2\Integracao_Api_GED_Core_2.csproj", "{F24B9D13-3ED4-4F22-A8EB-7485C86167E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtSwagger.Infrastructure", "JwtSwagger.Infrastructure\JwtSwagger.Infrastructure.csproj", "{E4C15D29-0EF8-4C66-BAC9-CFAA6BA4283D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JwtSwagger.Infrastructure", "JwtSwagger.Infrastructure\JwtSwagger.Infrastructure.csproj", "{E4C15D29-0EF8-4C66-BAC9-CFAA6BA4283D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - Presentation", "0 - Presentation", "{3A2C1FC0-BED5-4246-A31B-7AE283956065}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Services", "1 - Services", "{2AC85FFE-F17D-4F80-AD5D-C3126DAD4294}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Application", "2 - Application", "{93EA5511-DCD5-42FD-B0D3-77CCE9C50B28}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Domain", "3 - Domain", "{D7D789BB-816D-4FDC-A41D-5A3F8A018943}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Infra", "4 - Infra", "{E9F57887-5AA6-4B7E-B7EE-0A0A9FD95822}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.1 - Data", "4.1 - Data", "{9F33C644-202F-47DC-B55B-188AFEBC8F6F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,6 +36,11 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F24B9D13-3ED4-4F22-A8EB-7485C86167E5} = {2AC85FFE-F17D-4F80-AD5D-C3126DAD4294}
+		{E4C15D29-0EF8-4C66-BAC9-CFAA6BA4283D} = {9F33C644-202F-47DC-B55B-188AFEBC8F6F}
+		{9F33C644-202F-47DC-B55B-188AFEBC8F6F} = {E9F57887-5AA6-4B7E-B7EE-0A0A9FD95822}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {24922284-BD4D-4F59-A0D0-C8CFF4262453}
