@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26403.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Integracao_Api_GED_Core_2", "Integracao_Api_GED_Core_2\Integracao_Api_GED_Core_2.csproj", "{F24B9D13-3ED4-4F22-A8EB-7485C86167E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Integracao.Api.GED", "Integracao_Api_GED_Core_2\Integracao.Api.GED.csproj", "{F24B9D13-3ED4-4F22-A8EB-7485C86167E5}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JwtSwagger.Infrastructure", "JwtSwagger.Infrastructure\JwtSwagger.Infrastructure.csproj", "{E4C15D29-0EF8-4C66-BAC9-CFAA6BA4283D}"
 EndProject
@@ -19,6 +19,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Infra", "4 - Infra", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.1 - Data", "4.1 - Data", "{9F33C644-202F-47DC-B55B-188AFEBC8F6F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.2 - Tests", "4.2 - Tests", "{DD7F57AA-0AC9-48E0-9D4F-2165081DEADA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integracao.Api.Teste", "Integracao.Api.Teste\Integracao.Api.Teste.csproj", "{52204207-18E2-4EE6-BE3A-1D7203D7D037}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,10 @@ Global
 		{E4C15D29-0EF8-4C66-BAC9-CFAA6BA4283D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4C15D29-0EF8-4C66-BAC9-CFAA6BA4283D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4C15D29-0EF8-4C66-BAC9-CFAA6BA4283D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52204207-18E2-4EE6-BE3A-1D7203D7D037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52204207-18E2-4EE6-BE3A-1D7203D7D037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52204207-18E2-4EE6-BE3A-1D7203D7D037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52204207-18E2-4EE6-BE3A-1D7203D7D037}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -41,6 +49,8 @@ Global
 		{F24B9D13-3ED4-4F22-A8EB-7485C86167E5} = {2AC85FFE-F17D-4F80-AD5D-C3126DAD4294}
 		{E4C15D29-0EF8-4C66-BAC9-CFAA6BA4283D} = {9F33C644-202F-47DC-B55B-188AFEBC8F6F}
 		{9F33C644-202F-47DC-B55B-188AFEBC8F6F} = {E9F57887-5AA6-4B7E-B7EE-0A0A9FD95822}
+		{DD7F57AA-0AC9-48E0-9D4F-2165081DEADA} = {E9F57887-5AA6-4B7E-B7EE-0A0A9FD95822}
+		{52204207-18E2-4EE6-BE3A-1D7203D7D037} = {DD7F57AA-0AC9-48E0-9D4F-2165081DEADA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {24922284-BD4D-4F59-A0D0-C8CFF4262453}
