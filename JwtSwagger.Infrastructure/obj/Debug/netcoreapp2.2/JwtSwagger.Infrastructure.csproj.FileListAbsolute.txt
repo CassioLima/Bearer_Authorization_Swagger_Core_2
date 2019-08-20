@@ -1,0 +1,9 @@
+C:\temp\Estacio\Integracao_Api_GED_Core_2\Integracao_Api_GED_Core_2\JwtSwagger.Infrastructure\bin\Debug\netcoreapp2.2\JwtSwagger.Infrastructure.deps.json
+C:\temp\Estacio\Integracao_Api_GED_Core_2\Integracao_Api_GED_Core_2\JwtSwagger.Infrastructure\bin\Debug\netcoreapp2.2\JwtSwagger.Infrastructure.dll
+C:\temp\Estacio\Integracao_Api_GED_Core_2\Integracao_Api_GED_Core_2\JwtSwagger.Infrastructure\obj\Debug\netcoreapp2.2\JwtSwagger.Infrastructure.csprojAssemblyReference.cache
+C:\temp\Estacio\Integracao_Api_GED_Core_2\Integracao_Api_GED_Core_2\JwtSwagger.Infrastructure\obj\Debug\netcoreapp2.2\JwtSwagger.Infrastructure.csproj.CoreCompileInputs.cache
+C:\temp\Estacio\Integracao_Api_GED_Core_2\Integracao_Api_GED_Core_2\JwtSwagger.Infrastructure\obj\Debug\netcoreapp2.2\JwtSwagger.Infrastructure.AssemblyInfoInputs.cache
+C:\temp\Estacio\Integracao_Api_GED_Core_2\Integracao_Api_GED_Core_2\JwtSwagger.Infrastructure\obj\Debug\netcoreapp2.2\JwtSwagger.Infrastructure.AssemblyInfo.cs
+C:\temp\Estacio\Integracao_Api_GED_Core_2\Integracao_Api_GED_Core_2\JwtSwagger.Infrastructure\bin\Debug\netcoreapp2.2\JwtSwagger.Infrastructure.pdb
+C:\temp\Estacio\Integracao_Api_GED_Core_2\Integracao_Api_GED_Core_2\JwtSwagger.Infrastructure\obj\Debug\netcoreapp2.2\JwtSwagger.Infrastructure.dll
+C:\temp\Estacio\Integracao_Api_GED_Core_2\Integracao_Api_GED_Core_2\JwtSwagger.Infrastructure\obj\Debug\netcoreapp2.2\JwtSwagger.Infrastructure.pdb
